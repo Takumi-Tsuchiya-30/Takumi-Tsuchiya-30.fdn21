@@ -1,0 +1,40 @@
+h1 {
+  text-align: center;
+  font-size: 80px;
+}
+
+#question {
+  font-size: 60px;
+  text-align: center;
+}
+
+#buttons {
+  text-align: center;
+}
+
+#button1 {
+  color: red;
+  background-color: white;
+  margin-top: 50px;
+  font-size: 300px;
+  padding: 0 200px;
+  margin-right: 200px;
+}
+
+#button1:hover {
+  color: white;
+  background-color: red;
+}
+
+#button2 {
+  color: blue;
+  background-color: white;
+  margin-top: 50px;
+  font-size: 300px;
+  padding: 0 200px;
+}
+
+#button2:hover {
+  color: white;
+  background-color: blue;
+}
